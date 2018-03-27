@@ -24,3 +24,12 @@ Options:
   -v, --version  Affiche le numéro de version                          [booléen]
 
 ```
+
+
+**Example**
+
+Assuming Open Stage Control is running on default port and there's an Image widget with `address` set to `/image_1`
+
+```
+npm start -- --stream  rtsp://184.72.239.149/vod/mp4:BigBuckBunny_175k.mov --address /image_1 --send 127.0.0.1:8080 --resolution 320x240
+```
