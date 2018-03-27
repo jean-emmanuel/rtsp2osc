@@ -1,4 +1,4 @@
-# rtsp2OSC
+# rtsp2osc
 
 Convert a video stream to base64-encoded jpeg frames and send them to Open Stage Control.
 
