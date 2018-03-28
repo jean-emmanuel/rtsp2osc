@@ -16,13 +16,12 @@ Options:
   --send         osc target (ip:port)                                   [requis]
   --address      osc address                                            [requis]
   --pre-args     osc args before the image data                     [défaut: []]
-  --framerate    frames per second
+  --framerate    frames per second                                  [défaut: 10]
   --resolution   <width>x<height>
-  --quality      jpeg quality
+  --quality      jpeg quality                                        [défaut: 3]
   --debug        print osc messages (data stripped out)
   -h, --help     Affiche de l'aide                                     [booléen]
   -v, --version  Affiche le numéro de version                          [booléen]
-
 ```
 
 
