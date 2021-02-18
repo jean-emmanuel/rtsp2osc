@@ -4,6 +4,8 @@ Convert a video stream to base64-encoded jpeg frames and send them to Open Stage
 
 This is an implementation to example for https://github.com/jean-emmanuel/open-stage-control/issues/259.
 
+SEE ALSO: https://openstagecontrol.ammd.net/docs/custom-module/examples/#display-rtsp-stream
+
 ```bash
 git clone https://github.com/jean-emmanuel/rtsp2osc
 cd rtsp2osc
